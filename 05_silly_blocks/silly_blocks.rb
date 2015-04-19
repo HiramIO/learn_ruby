@@ -5,7 +5,7 @@ end
 
 
 def reverser(string)
-  string.reverse
+  string.to_s.reverse
 end
 
 
